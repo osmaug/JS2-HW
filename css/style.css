@@ -62,7 +62,8 @@ body {
 
 .product-card-img {
     align-self: center;
-    max-height: 150px;
+    max-height: auto;
+    max-width: 100%;
 }
 
 .product-card-price {
